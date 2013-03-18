@@ -1,7 +1,7 @@
-## Interface: 50100
+## Interface: 50200
 ## Title: DKPmon_PHPBBEPGP
 ## Author: Xerophyte
-## Version: 4.2.1
+## Version: 4.2.4
 ## Notes: Module for DKPmon to add export from the points database in PHPBB format, EPGP version
 ## X-eMail: xerofyt@gmail.com
 ## X-Category: Raid
